@@ -7,8 +7,10 @@ To test it, you need a tool like postman to send a POST HTTP request to your loc
 
 ### Json i.e. code:
 
+```json
 {
   "name": "eedsa1",
   "email": "mail@test.com",
   "feedback": "message"
 }
+```
