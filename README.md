@@ -11,7 +11,7 @@ To test it, you need a tool like postman to send a POST HTTP request to your loc
 ```json
 {
   "name": "eedsa1",
-  "email": "mail@test.com",
+  "email": "a.email@test.com",
   "feedback": "message"
 }
 ```
